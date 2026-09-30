@@ -1,6 +1,9 @@
 # AgentCraft — Python for Agentic AI
 
-A 2-month, career-oriented course that takes students from Python fundamentals to building real, working AI Agents and business automation systems. Taught at Aptech Gulshan 2, Karachi.
+A 2-month, career-oriented course that takes students from Python fundamentals to building real, working AI Agents and business automation systems.
+
+**Designed & Taught by:** Yousuf Naveed Khan, Senior Faculty
+**Hosted by:** Aptech Gulshan 2, Karachi
 
 ## What This Course Covers
 
