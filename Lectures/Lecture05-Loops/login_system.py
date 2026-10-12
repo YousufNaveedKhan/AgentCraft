@@ -16,6 +16,3 @@ while attempts < max_attempts:
         remaining = max_attempts - attempts
         print(f"Invalid email and password! Remaining Attempts: {remaining}")
         continue
-
-
-
