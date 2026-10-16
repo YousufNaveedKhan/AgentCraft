@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Shayan",
+        "obtained": "99",
+        "total": "100",
+        "percentage": 99.0,
+        "status": "Pass"
+    },
+    { 
+        "name": "Ayaan",
+        "obtained": "91",
+        "total": "100",
+        "percentage": 91.0,
+        "status": "Pass"
+    },
+    {
+        "name": "Aaqib",
+        "obtained": "75",
+        "total": "100",
+        "percentage": 75.0,
+        "status": "Pass"
+    },
+    {
+        "name": "Hashim",
+        "obtained": "33",
+        "total": "100",
+        "percentage": 33.0,
+        "status": "Fail"
+    },
+    {
+        "name": "Sufyan",
+        "obtained": "49",
+        "total": "100",
+        "percentage": 49.0,
+        "status": "Fail"
+    }
+]
