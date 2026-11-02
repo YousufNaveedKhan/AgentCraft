@@ -1,0 +1,6 @@
+Run at: 2026-11-02 17:35:44.979239
+Total leads: 4
+Ayaan -> Delivery Delay (High)
+Hashim -> General Inquiry (Low)
+Shayan -> Payment Issue (High)
+Sufyan -> Delivery (Low)

@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Ayaan",
+        "message": "Mera order 5 din se nahin aaya bohot zaroori hai",
+        "category": "Delivery Delay",
+        "urgency": "High",
+        "reason": "Order has been delayed by 5 days and customer explicitly stated that it is very urgent."
+    },
+    {
+        "name": "Hashim",
+        "message": "Bas sawal karna tha koi jaldi nahi hai",
+        "category": "General Inquiry",
+        "urgency": "Low",
+        "reason": "Customer ne explicitly bola hai ki koi jaldi nahi hai aur sirf ek aam sawal puchna chahte hain."
+    },
+    {
+        "name": "Shayan",
+        "message": "Payment kat gayi hai lekin order confirm nahin hua turant check karein",
+        "category": "Payment Issue",
+        "urgency": "High",
+        "reason": "Customer's money has been deducted without order confirmation, and they requested immediate resolution."
+    },
+    {
+        "name": "Sufyan",
+        "message": "Product acha hai bas delivery thori late hui",
+        "category": "Delivery",
+        "urgency": "Low",
+        "reason": "Customer product se khush hai lekin delivery mein thodi deri ki complaint ki hai, jo ki non-critical feedback hai."
+    }
+]
